@@ -1,0 +1,1 @@
+make SGX=1 SGX_SIGNER_KEY="$HOME"/.config/gramine/enclave-key.pem 
